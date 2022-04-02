@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/basho/static/css/main.2168c2e0.css",
+    "main.js": "/basho/static/js/main.436016db.js",
+    "static/js/787.9d708354.chunk.js": "/basho/static/js/787.9d708354.chunk.js",
+    "static/media/photo-1581368129682-e2d66324045b.jpeg": "/basho/static/media/photo-1581368129682-e2d66324045b.4618c1c50a2763c38d96.jpeg",
+    "static/media/brando-makes-branding-B0kRAfteJZY-unsplash.jpg": "/basho/static/media/brando-makes-branding-B0kRAfteJZY-unsplash.03ee5c19c03e02c04b38.jpg",
+    "static/media/photo-1559650656-5d1d361ad10e.jpeg": "/basho/static/media/photo-1559650656-5d1d361ad10e.feff9738695cbd512af1.jpeg",
+    "static/media/photo-1638675039591-c7b3d1bbbd74.jpeg": "/basho/static/media/photo-1638675039591-c7b3d1bbbd74.1cda76c85d746a680213.jpeg",
+    "static/media/logo_light.svg": "/basho/static/media/logo_light.ed35a87cd3a060a06e51e2bd9b73807a.svg",
+    "index.html": "/basho/index.html",
+    "main.2168c2e0.css.map": "/basho/static/css/main.2168c2e0.css.map",
+    "main.436016db.js.map": "/basho/static/js/main.436016db.js.map",
+    "787.9d708354.chunk.js.map": "/basho/static/js/787.9d708354.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2168c2e0.css",
+    "static/js/main.436016db.js"
+  ]
+}
